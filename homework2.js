@@ -1,4 +1,3 @@
-<script>
 
 const num1 = 25
 const num2 = 10
@@ -16,5 +15,3 @@ if (text1 === "AUA") {
 };
 console.log(num3*num1)
 console.log(num4)
-
-</script>	
