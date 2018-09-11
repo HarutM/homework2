@@ -7,11 +7,11 @@ const text1 = "Hello"
 const text2 = "AUA"
 
 if (text1 === "AUA") {
-  console.log("it is wrong!")
-}; if (text1 === "Hello") {
-  console.log("it's correct!!!")
-}; if (text1 + " " + text2 === "Hello AUA") {
-  console.log("Again it's correct")
-};
+  console.log("it is wrong!");
+} else if (text1 === "Hello") {
+  console.log("it's correct!!!");
+} if (text1 + " " + text2 === "Hello AUA") {
+  console.log("Again it's correct");
+}
 console.log(num3*num1)
 console.log(num4)
