@@ -15,3 +15,4 @@ if (text1 === "AUA") {
 }
 console.log(num3*num1)
 console.log(num4)
+console.log(num3/text1) //it is not a number, so it'll print NaN
